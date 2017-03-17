@@ -1,0 +1,2 @@
+module ScriptPagesHelper
+end
