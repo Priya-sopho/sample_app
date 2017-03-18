@@ -4,4 +4,7 @@ class ScriptPagesController < ApplicationController
 
   def help
   end
+
+  def about
+  end
 end
